@@ -1,7 +1,17 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Dennis Kurochkin </h3>
+<p align="center">
+  <a href="https://giftegwuenu.com">Website</a> •
+  <a href="https://twitter.com/lauragift_">Twitter</a>
+</p>
+
+---
+✨ I'm a front-end developer passionate about making the web cool and accessible to everyone. 
+
+- 🔭 I’m currently working remotely in Agency 7A located in Moscow.
+- 💬 Ask me about (AMA): HTML, CSS, JavaScript, React
+- 📫 How to reach me: [@DennisKurochkin](https://twitter.com/DennisKurochkin
 
 <!--
-**dennis-kurochkin/dennis-kurochkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
