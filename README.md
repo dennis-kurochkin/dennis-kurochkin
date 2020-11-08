@@ -1,7 +1,8 @@
 <h3 align="center">👋 Hi there! I'm Dennis Kurochkin </h3>
 <p align="center">
-  <a href="https://giftegwuenu.com">Website</a> •
-  <a href="https://twitter.com/lauragift_">Twitter</a>
+  <a href="https://www.linkedin.com/in/dennis-kurochkin/">LinkedIn</a> •
+  <a href="https://t.me/dennis_kurochkin">Telegram</a> •
+  <a href="https://twitter.com/DennisKurochkin">Twitter</a>
 </p>
 
 ---
@@ -14,6 +15,13 @@
 <!--
 
 Here are some ideas to get you started:
+
+<h3 align="center">👋 Hi there! I'm Dennis Kurochkin </h3>
+<p align="center">
+  <a href="https://.com">Website</a> •
+  <a href="https://twitter.com/">Twitter</a>
+</p>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
