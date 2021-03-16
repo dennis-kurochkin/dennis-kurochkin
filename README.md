@@ -8,9 +8,6 @@
 ---
 ✨ I'm a front-end developer passionate about making the web cool and accessible to everyone. 
 
-- 🔭 I’m currently working remotely in Agency 7A located in Moscow.
-- 💬 Ask me about (AMA): HTML, CSS, JavaScript, React
-- 📫 How to reach me: [@DennisKurochkin](https://twitter.com/DennisKurochkin
 
 <!--
 
