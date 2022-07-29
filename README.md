@@ -9,7 +9,7 @@
 ✨ I'm a front-end developer passionate about making the web cool and accessible to everyone. 
 
 
-Recent courses I've completed:
+#### Recent courses I've completed:
 - <a href="https://frontendmasters.com/workshops/fullstack-apps/">Build Full-Stack Apps from Scratch from Frontend Masters</a>
 
 
