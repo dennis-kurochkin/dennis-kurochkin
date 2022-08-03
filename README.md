@@ -6,7 +6,7 @@
 </p>
 
 ---
-✨ I'm a front-end developer passionate about making the web cool and accessible to everyone. 
+✨ I'm a front-end engineer passionate about making the web cool and accessible to everyone. 
 
 
 #### Recent courses I've completed and highly recommend:
