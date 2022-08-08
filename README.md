@@ -1,5 +1,6 @@
 <h3 align="center">👋 Hi there! I'm Dennis Kurochkin </h3>
 <p align="center">
+  <a href="https://kurochkin.dev/">My own website</a> •
   <a href="https://www.linkedin.com/in/dennis-kurochkin/">LinkedIn</a> •
   <a href="https://t.me/dennis_kurochkin">Telegram</a> •
   <a href="https://twitter.com/DennisKurochkin">Twitter</a>
