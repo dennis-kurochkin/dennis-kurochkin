@@ -11,7 +11,7 @@
 
 
 #### Recent courses I've completed and highly recommend:
-- <a href="https://frontendmasters.com/courses/fullstack-app-next/">Build Full-Stack Apps from Scratch from Frontend Masters</a> ((https://github.com/dennis-kurochkin/spotify-clone)[repo])
+- <a href="https://frontendmasters.com/courses/fullstack-app-next/">Build Full-Stack Apps from Scratch from Frontend Masters</a> ((repo)[https://github.com/dennis-kurochkin/spotify-clone])
 - <a href="https://frontendmasters.com/courses/javascript-hard-parts-v2/">JavaScript: The Hard Parts, v2</a>
 
 
