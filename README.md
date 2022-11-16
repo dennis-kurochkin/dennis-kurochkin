@@ -11,7 +11,9 @@
 
 
 #### Recent courses I've completed and highly recommend:
-- <a href="https://frontendmasters.com/courses/fullstack-app-next/">Build Full-Stack Apps from Scratch from Frontend Masters</a>
+- <a href="https://frontendmasters.com/courses/fullstack-app-next/">🚩 Build Full-Stack Apps from Scratch from Frontend Masters</a>
+- <a href="https://frontendmasters.com/courses/javascript-hard-parts-v2/">🚩 JavaScript: The Hard Parts, v2</a>
+
 
 
 <!--
